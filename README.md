@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/JasonZhangle/JasonZhangle.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JasonZhangle/JasonZhangle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+关于减脂
+个人觉得减脂不是一件非常难的事，
+只要没人天天在你面前吃外卖就行。（小声diss舍友）
+奶茶不能喝——那就喝果汁，咖啡（最好是黑咖，少奶少糖，一杯黑咖能提高百分之十几的基础代谢），低脂牛奶
+不敢吃肉——鸡胸肉，龙利鱼，牛肉可以多吃且不容易胖，不过要避免油炸（零食也可以买这类）
+不能吃碳水化合物——粗粮玉米全都能吃，而且每周一两次高碳水化合物还能促进基础代谢，有利于减肥。（现在碳水循环减肥法相当火，可惜计算太麻烦了，学生党也没法做到精确的控制）
+喝水是不会长肉的，反而会促进基础代谢，吃辣也能燃烧体脂（不过一般辣都和油在一起，还是少吃吧）。
+食物尽量清蒸，少吃红烧，不吃油炸，个人认为沙拉酱是问题不大的。
+不要一天量好几次体重，是没有意义的，体重的浮动都是你排除的水分，减脂是个长期过程，一周测一次就够了。
+一月吃一两次欺骗餐（不考虑热量随便吃）是不会对体重有什么影响的还能起到鼓舞士气的作用。
+节食是没有用的（只需要每天卡路里的摄入量小于消耗量就能瘦），一旦你回校回复正常饮食一夜之间会全胖回来，多运动才是王道（无氧+有氧，尤其是空腹有氧）。
+睡眠也至关重要（尽量六七个小时以上的睡眠吧，早上起来再做做有氧然后吃早饭，强推波比跳）。
+糖是绝对不能吃的，
+糖是绝对不能吃的，
+糖是绝对不能吃的。
+（最好养成吃东西前先看营养成分表的习惯，蛋白质高碳水脂肪少热量低优先）
+protein，protein，protein
+（大概每1kg体重每天摄入1.8～2.2g蛋白质）别减太痛苦了，会得厌食症的。
+祝你们成功
